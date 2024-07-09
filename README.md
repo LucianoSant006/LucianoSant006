@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">-Desenvolvedor back end<br>-Estágiario em Expressão Sistemas<br>-Estudando Docker|AWS</p>
+<p align="left">-Desenvolvedor back end<br>-Estágiario em Expressão Sistemas<br>-Estudando Docker|AWS|Java</p>
 
 ###
 
