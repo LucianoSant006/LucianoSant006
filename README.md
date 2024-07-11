@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Teachs</h2>
+<h2 align="left">Meus Técnicos</h2>
 
 ###
 
