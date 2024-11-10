@@ -1,3 +1,12 @@
+## Meu perfil no Codewars
+
+Veja meu progresso no Codewars [aqui](https://www.codewars.com/users/LucianoSant006).
+
+### Badge de evolução
+
+<img src="https://www.codewars.com/users/LucianoSant006/badges/micro" alt="Codewars Badge" width="250" />
+
+
 <br clear="both">
 
 <h2 align="left">Sobre..</h2>
