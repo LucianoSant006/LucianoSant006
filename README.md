@@ -9,11 +9,19 @@ Veja meu progresso no Codewars [aqui](https://www.codewars.com/users/LucianoSant
 
 <br clear="both">
 
-<h2 align="left">Sobre..</h2>
+<h2 align="left">Sobre</h2>
 
 ###
 
-<p align="left">-Desenvolvedor back end<br>-Estágiario em Expressão Sistemas<br>-Estudando Docker|AWS|Java</p>
+<p align="left">
+- Desenvolvedor  apaixonado por tecnologia e soluções eficientes.<br>  
+- Experiência como estagiário na <strong>Expressão Sistemas</strong>, atuando como desenvolvedor back-end com foco em Delphi , para projetos robustos.<br>  
+- Atualmente estudando <strong>Test-Driven Development (TDD)</strong>, <strong>Microservices</strong> com Java e Spring Boot para aprimorar minhas habilidades no desenvolvimento de sistemas escaláveis e confiáveis.<br>  
+- Atualmente estudando <strong>Test-Driven Development (TDD)</strong> e <strong>Microservices</strong> com Java e Spring Boot.<br>
+- Experiência em construir APIs RESTful seguindo boas práticas e segurança.<br>
+- Conhecimento em implementar autenticação e autorização utilizando <strong>JWT</strong> e <strong>OAuth 2.0</strong>.<br>
+- Domínio em bancos de dados <strong>PostgreSQL</strong> e <strong>Oracle</strong>.
+</p>
 
 ###
 
