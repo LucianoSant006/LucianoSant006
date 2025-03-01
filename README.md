@@ -16,10 +16,9 @@ Veja meu progresso no Codewars [aqui](https://www.codewars.com/users/LucianoSant
 <p align="left">
 - Desenvolvedor  apaixonado por tecnologia e soluções eficientes.<br>  
 - Experiência como estagiário na <strong>Expressão Sistemas</strong>, atuando como desenvolvedor back-end com foco em Delphi , para projetos robustos.<br>  
-- Atualmente estudando <strong>Test-Driven Development (TDD)</strong>, <strong>Microservices</strong> com Java e Spring Boot para aprimorar minhas habilidades no desenvolvimento de sistemas escaláveis e confiáveis.<br>  
-- Atualmente estudando <strong>Test-Driven Development (TDD)</strong> e <strong>Microservices</strong> com Java e Spring Boot.<br>
+- Atualmente estudando <strong> Docker e Kubernetes</strong>  e <strong>Microservices</strong> com Java Spring Boot para aprimorar minhas habilidades no desenvolvimento de sistemas escaláveis e confiáveis.<br>  
 - Experiência em construir APIs RESTful seguindo boas práticas e segurança.<br>
-- Conhecimento em implementar autenticação e autorização utilizando <strong>JWT</strong> e <strong>OAuth 2.0</strong>.<br>
+- Conhecimento em implementar autenticação e autorização utilizando<strong>JWT</strong> e <strong>OAuth 2.0</strong>.<br>
 - Domínio em bancos de dados <strong>PostgreSQL</strong> e <strong>Oracle</strong>.
 </p>
 
