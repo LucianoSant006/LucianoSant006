@@ -14,13 +14,17 @@ Veja meu progresso no Codewars [aqui](https://www.codewars.com/users/LucianoSant
 ###
 
 <p align="left">
-- Desenvolvedor  apaixonado por tecnologia e soluções eficientes.<br>  
-- Experiência como estagiário na <strong>Expressão Sistemas</strong>, atuando como desenvolvedor back-end com foco em Delphi , para projetos robustos.<br>  
-- Atualmente estudando <strong> Docker e Kubernetes</strong>  e <strong>Microservices</strong> com Java Spring Boot para aprimorar minhas habilidades no desenvolvimento de sistemas escaláveis e confiáveis.<br>  
-- Experiência em construir APIs RESTful seguindo boas práticas e segurança.<br>
-- Conhecimento em implementar autenticação e autorização utilizando<strong>JWT</strong> e <strong>OAuth 2.0</strong>.<br>
-- Domínio em bancos de dados <strong>PostgreSQL</strong> e <strong>Oracle</strong>.
+- Desenvolvedor apaixonado por tecnologia e soluções eficientes.<br>
+- Experiência como estagiário na <strong>Expressão Sistemas</strong>, atuando como desenvolvedor back-end com foco em Delphi para projetos robustos.<br>
+- Atualmente atuo como <strong>Aprendiz na Boas Novas Gestão</strong>, contribuindo com minha formação profissional e técnica.<br>
+- Faço parte da equipe de desenvolvimento da aplicação web <strong>"Minha Escala"</strong>, com foco em especialização em <strong>Vue.js (2 e 3)</strong> e <strong>Node.js com Express</strong>.<br>
+- Estou em preparação para contribuir ativamente no projeto, aprimorando habilidades em <strong>desenvolvimento full stack</strong>, atuando tanto no front-end quanto no back-end, seguindo as melhores práticas de desenvolvimento web.<br>
+- Trabalho com tecnologias como <strong>HTML5 semântico</strong>, <strong>CSS3</strong>, <strong>Tailwind CSS</strong>, <strong>JavaScript moderno</strong>, <strong>Vue.js</strong>, <strong>Node.js</strong> e <strong>Express</strong>.<br>
+- Aplico conceitos como componentes reutilizáveis, consumo de APIs RESTful, interfaces responsivas e dinâmicas, além de autenticação e autorização com <strong>JWT</strong> e <strong>OAuth 2.0</strong>.<br>
+- Domínio em bancos de dados <strong>PostgreSQL</strong> e <strong>Oracle</strong>.<br>
+- Estudando <strong>Docker</strong>, <strong>Kubernetes</strong> e <strong>Microservices com Java Spring Boot</strong> para aprimorar o desenvolvimento de sistemas escaláveis e confiáveis.
 </p>
+
 
 ###
 
